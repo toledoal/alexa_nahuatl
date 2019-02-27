@@ -4,7 +4,7 @@
 const Alexa = require('ask-sdk-core');
 
 const SKILL_NAME = 'Guía de palabras mexicanas';
-const GET_FACT_MESSAGE = 'Una palabra usada en Meéxico con origen náhuatl ';
+const GET_FACT_MESSAGE = 'Una palabra usada en México con origen náhuatl ';
 const HELP_MESSAGE = 'Puedes decir: Dime una palabra... o simplemente para detenerme puedes decir: ¡Cancela!... ¿Cómo te puedo ayudar?';
 const HELP_REPROMPT = '¿Cómo te puedo ayudar?';
 const STOP_MESSAGE = 'Adios y <say-as interpret-as="interjection">buena suerte</say-as>';
